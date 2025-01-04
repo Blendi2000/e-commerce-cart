@@ -1,0 +1,98 @@
+<div class="container mx-auto px-4 py-8">
+    <div class="flex justify-between items-center mb-8">
+      <h1 class="text-3xl font-bold">Cart</h1>
+      <button
+      (click)="navigateToProductList()"
+      class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition"
+    >
+      Back to Product List
+    </button>
+    </div>
+  
+    <!-- Cart Table -->
+    <table class="table-auto w-full border-collapse">
+      <thead>
+        <tr class="text-left text-gray-600 border-b border-gray-300">
+          <th class="py-3">PRODUCT DETAILS</th>
+          <th class="py-3">UNIT PRICE</th>
+          <th class="py-3">QUANTITY</th>
+          <th class="py-3">AMOUNT</th>
+          <th class="py-3"></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr
+          *ngFor="let item of cart()"
+          class="border-b border-gray-200 hover:bg-gray-100 transition"
+        >
+          <!-- Product Details -->
+          <td class="py-4 flex items-center gap-4">
+            <img
+              [src]="item.image"
+              alt="Product Image"
+              class="w-16 h-16 object-cover rounded"
+            />
+            <div>
+              <p class="font-medium">{{ item.name }}</p>
+            </div>
+          </td>
+  
+          <!-- Unit Price -->
+          <td class="py-4 text-gray-600">€{{ item.price }}</td>
+  
+          <!-- Quantity -->
+          <td class="py-4">
+            <div class="flex items-center gap-2">
+              <button
+                class="px-2 py-1 border border-gray-300 rounded hover:bg-gray-200"
+                (click)="decreaseQuantity(item.id)"
+              >
+                −
+              </button>
+              <span class="px-4 py-1 border border-gray-300">{{ item.quantity }}</span>
+              <button
+                class="px-2 py-1 border border-gray-300 rounded hover:bg-gray-200"
+                (click)="increaseQuantity(item.id)"
+              >
+                +
+              </button>
+            </div>
+          </td>
+  
+          <!-- Amount -->
+          <td class="py-4 text-gray-600">
+            €{{ (item.quantity * item.price).toFixed(2) }}
+          </td>
+  
+          <td class="py-4">
+            <button
+              class="text-red-500 hover:text-red-700 transition"
+              (click)="removeItem(item.id)"
+            >
+              <i class="fa fa-trash"></i>
+            </button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  
+    <!-- Totals -->
+    <div class="mt-8 text-right">
+      <p class="text-lg">
+        Subtotal: <span class="font-medium">€{{ totals.total.toFixed(2) }}</span>
+      </p>
+      <p class="text-sm text-gray-600">
+        Tax: <span class="font-medium">€{{ totals.tax.toFixed(2) }}</span>
+      </p>
+      <p class="text-xl font-bold mt-2">
+        Total: <span>€{{ totals.finalTotal.toFixed(2) }}</span>
+      </p>
+      <button
+        class="mt-4 px-6 py-2 bg-green-500 text-white font-medium rounded hover:bg-green-600"
+        (click)="clearCart()"
+      >
+        Clear Cart
+      </button>
+    </div>
+  </div>
+  

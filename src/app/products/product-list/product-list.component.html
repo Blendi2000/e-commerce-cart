@@ -1,0 +1,110 @@
+<div class="p-4">
+  <div class="mb-4">
+    <a
+      routerLink="/cart"
+      class="bg-green-500 text-white px-4 py-2 rounded hover:bg-green-600"
+    >
+      Go to Cart
+    </a>
+  </div>
+</div>
+
+<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 p-4">
+  <div
+    *ngFor="let product of products()"
+    class="border border-gray-300 rounded-lg p-4 shadow-sm hover:shadow-lg relative"
+  >
+    <!-- Discount Label -->
+    <div
+      *ngIf="product.discount"
+      class="absolute top-2 left-2 bg-purple-500 text-white text-xs font-bold px-2 py-1 rounded-full"
+    >
+      {{ product.discount }}
+    </div>
+
+    <!-- Product Image -->
+    <img
+      [src]="product.image"
+      alt="{{ product.name }}"
+      class="w-full h-48 object-cover rounded-md mb-4"
+    />
+
+    <!-- Product Details -->
+    <h2 class="text-lg font-semibold">{{ product.name }}</h2>
+    <p class="text-gray-600">Category: {{ product.category }}</p>
+
+    <!-- Price Section -->
+    <div>
+      <span
+        *ngIf="product.real_price"
+        class="line-through text-gray-500 text-sm"
+      >
+        ${{ product.real_price }}
+      </span>
+      <span class="text-gray-800 font-bold ml-2">
+        ${{ product.price }}
+      </span>
+    </div>
+
+    <p class="text-sm text-gray-500">{{ product.description }}</p>
+    <button
+      (click)="openModal(product)"
+      class="mt-4 bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+    >
+      Add to Cart
+    </button>
+  </div>
+</div>
+
+<!-- Modal -->
+<div
+  class="fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center z-50"
+  *ngIf="selectedProduct"
+>
+  <div class="bg-white rounded-lg p-6 shadow-lg relative w-full max-w-md mx-4">
+    <!-- Close Button -->
+    <button
+      (click)="closeModal()"
+      class="absolute top-2 right-2 bg-red-500 text-white rounded-full w-8 h-8 flex items-center justify-center"
+    >
+      &times;
+    </button>
+
+    <!-- Product Details -->
+    <h2 class="text-lg font-semibold mb-4">{{ selectedProduct.name }}</h2>
+    <img
+      [src]="selectedProduct.image"
+      alt="{{ selectedProduct.name }}"
+      class="w-full h-48 object-cover rounded-md mb-4"
+    />
+    <p *ngIf="selectedProduct.real_price" >
+      Original Price: <span class="line-through text-gray-500 ">${{ selectedProduct.real_price }}</span>
+    </p>
+    <p>Price: ${{ selectedProduct.price }}</p>
+  
+
+    <label for="quantity" class="block mt-4">Quantity:</label>
+    <input
+      id="quantity"
+      type="number"
+      [(ngModel)]="quantity"
+      class="border rounded w-full p-2"
+    />
+
+    <button
+      (click)="addToCart(selectedProduct)"
+      class="mt-4 bg-green-500 text-white px-4 py-2 rounded hover:bg-green-600 w-full"
+    >
+      Add to Cart
+    </button>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+

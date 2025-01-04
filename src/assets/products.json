@@ -1,0 +1,3394 @@
+[
+    {
+        "id": 1,
+        "name": "Product 1",
+        "price": 257.31,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 1 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+1",
+        "discount": "10%"
+    },
+    {
+        "id": 2,
+        "name": "Product 2",
+        "price": 252.26,
+        "category": "Automotive",
+        "description": "This is a description for Product 2 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+2",
+        "discount": "25%"
+    },
+    {
+        "id": 3,
+        "name": "Product 3",
+        "price": 251.61,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 3 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+3",
+        "discount": "25%"
+    },
+    {
+        "id": 4,
+        "name": "Product 4",
+        "price": 241.47,
+        "category": "Automotive",
+        "description": "This is a description for Product 4 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+4"
+    },
+    {
+        "id": 5,
+        "name": "Product 5",
+        "price": 181.28,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 5 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+5",
+        "discount": "20%"
+    },
+    {
+        "id": 6,
+        "name": "Product 6",
+        "price": 283.92,
+        "category": "Electronics",
+        "description": "This is a description for Product 6 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+6"
+    },
+    {
+        "id": 7,
+        "name": "Product 7",
+        "price": 471.97,
+        "category": "Clothing",
+        "description": "This is a description for Product 7 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+7",
+        "discount": "22%"
+    },
+    {
+        "id": 8,
+        "name": "Product 8",
+        "price": 140.1,
+        "category": "Books",
+        "description": "This is a description for Product 8 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+8"
+    },
+    {
+        "id": 9,
+        "name": "Product 9",
+        "price": 349.1,
+        "category": "Electronics",
+        "description": "This is a description for Product 9 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+9",
+        "discount": "45%"
+    },
+    {
+        "id": 10,
+        "name": "Product 10",
+        "price": 494.37,
+        "category": "Clothing",
+        "description": "This is a description for Product 10 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+10"
+    },
+    {
+        "id": 11,
+        "name": "Product 11",
+        "price": 440.03,
+        "category": "Clothing",
+        "description": "This is a description for Product 11 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+11",
+        "discount": "12%"
+    },
+    {
+        "id": 12,
+        "name": "Product 12",
+        "price": 455.45,
+        "category": "Clothing",
+        "description": "This is a description for Product 12 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+12"
+    },
+    {
+        "id": 13,
+        "name": "Product 13",
+        "price": 104.51,
+        "category": "Beauty",
+        "description": "This is a description for Product 13 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+13",
+        "discount": "20%"
+    },
+    {
+        "id": 14,
+        "name": "Product 14",
+        "price": 352.52,
+        "category": "Automotive",
+        "description": "This is a description for Product 14 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+14"
+    },
+    {
+        "id": 15,
+        "name": "Product 15",
+        "price": 449.98,
+        "category": "Books",
+        "description": "This is a description for Product 15 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+15"
+    },
+    {
+        "id": 16,
+        "name": "Product 16",
+        "price": 88.37,
+        "category": "Electronics",
+        "description": "This is a description for Product 16 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+16"
+    },
+    {
+        "id": 17,
+        "name": "Product 17",
+        "price": 23.25,
+        "category": "Sports",
+        "description": "This is a description for Product 17 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+17"
+    },
+    {
+        "id": 18,
+        "name": "Product 18",
+        "price": 258.2,
+        "category": "Toys",
+        "description": "This is a description for Product 18 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+18"
+    },
+    {
+        "id": 19,
+        "name": "Product 19",
+        "price": 341.81,
+        "category": "Clothing",
+        "description": "This is a description for Product 19 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+19",
+        "discount": "15%"
+    },
+    {
+        "id": 20,
+        "name": "Product 20",
+        "price": 268.95,
+        "category": "Clothing",
+        "description": "This is a description for Product 20 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+20",
+        "discount": "25%"
+    },
+    {
+        "id": 21,
+        "name": "Product 21",
+        "price": 461.73,
+        "category": "Automotive",
+        "description": "This is a description for Product 21 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+21"
+    },
+    {
+        "id": 22,
+        "name": "Product 22",
+        "price": 13.53,
+        "category": "Books",
+        "description": "This is a description for Product 22 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+22"
+    },
+    {
+        "id": 23,
+        "name": "Product 23",
+        "price": 184.28,
+        "category": "Toys",
+        "description": "This is a description for Product 23 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+23"
+    },
+    {
+        "id": 24,
+        "name": "Product 24",
+        "price": 178.38,
+        "category": "Sports",
+        "description": "This is a description for Product 24 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+24"
+    },
+    {
+        "id": 25,
+        "name": "Product 25",
+        "price": 138.07,
+        "category": "Clothing",
+        "description": "This is a description for Product 25 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+25",
+        "discount": "25%"
+    },
+    {
+        "id": 26,
+        "name": "Product 26",
+        "price": 383.23,
+        "category": "Sports",
+        "description": "This is a description for Product 26 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+26"
+    },
+    {
+        "id": 27,
+        "name": "Product 27",
+        "price": 227.63,
+        "category": "Clothing",
+        "description": "This is a description for Product 27 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+27",
+        "discount": "25%"
+    },
+    {
+        "id": 28,
+        "name": "Product 28",
+        "price": 465.9,
+        "category": "Clothing",
+        "description": "This is a description for Product 28 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+28"
+    },
+    {
+        "id": 29,
+        "name": "Product 29",
+        "price": 131.23,
+        "category": "Automotive",
+        "description": "This is a description for Product 29 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+29"
+    },
+    {
+        "id": 30,
+        "name": "Product 30",
+        "price": 176.57,
+        "category": "Toys",
+        "description": "This is a description for Product 30 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+30"
+    },
+    {
+        "id": 31,
+        "name": "Product 31",
+        "price": 94.62,
+        "category": "Beauty",
+        "description": "This is a description for Product 31 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+31"
+    },
+    {
+        "id": 32,
+        "name": "Product 32",
+        "price": 201.75,
+        "category": "Clothing",
+        "description": "This is a description for Product 32 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+32",
+        "discount": "25%"
+    },
+    {
+        "id": 33,
+        "name": "Product 33",
+        "price": 70.07,
+        "category": "Sports",
+        "description": "This is a description for Product 33 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+33"
+    },
+    {
+        "id": 34,
+        "name": "Product 34",
+        "price": 20.08,
+        "category": "Automotive",
+        "description": "This is a description for Product 34 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+34",
+        "discount": "5%"
+    },
+    {
+        "id": 35,
+        "name": "Product 35",
+        "price": 387.07,
+        "category": "Books",
+        "description": "This is a description for Product 35 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+35",
+        "discount": "20%"
+    },
+    {
+        "id": 36,
+        "name": "Product 36",
+        "price": 178.18,
+        "category": "Automotive",
+        "description": "This is a description for Product 36 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+36",
+        "discount": "5%"
+    },
+    {
+        "id": 37,
+        "name": "Product 37",
+        "price": 173.46,
+        "category": "Toys",
+        "description": "This is a description for Product 37 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+37"
+    },
+    {
+        "id": 38,
+        "name": "Product 38",
+        "price": 343.21,
+        "category": "Electronics",
+        "description": "This is a description for Product 38 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+38"
+    },
+    {
+        "id": 39,
+        "name": "Product 39",
+        "price": 69.77,
+        "category": "Clothing",
+        "description": "This is a description for Product 39 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+39",
+        "discount": "25%"
+    },
+    {
+        "id": 40,
+        "name": "Product 40",
+        "price": 443.01,
+        "category": "Toys",
+        "description": "This is a description for Product 40 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+40"
+    },
+    {
+        "id": 41,
+        "name": "Product 41",
+        "price": 326.33,
+        "category": "Sports",
+        "description": "This is a description for Product 41 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+41"
+    },
+    {
+        "id": 42,
+        "name": "Product 42",
+        "price": 364.88,
+        "category": "Clothing",
+        "description": "This is a description for Product 42 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+42"
+    },
+    {
+        "id": 43,
+        "name": "Product 43",
+        "price": 437.73,
+        "category": "Automotive",
+        "description": "This is a description for Product 43 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+43"
+    },
+    {
+        "id": 44,
+        "name": "Product 44",
+        "price": 136.9,
+        "category": "Books",
+        "description": "This is a description for Product 44 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+44"
+    },
+    {
+        "id": 45,
+        "name": "Product 45",
+        "price": 112.65,
+        "category": "Toys",
+        "description": "This is a description for Product 45 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+45"
+    },
+    {
+        "id": 46,
+        "name": "Product 46",
+        "price": 463.01,
+        "category": "Toys",
+        "description": "This is a description for Product 46 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+46",
+        "discount": "5%"
+    },
+    {
+        "id": 47,
+        "name": "Product 47",
+        "price": 150.44,
+        "category": "Sports",
+        "description": "This is a description for Product 47 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+47",
+        "discount": "5%"
+    },
+    {
+        "id": 48,
+        "name": "Product 48",
+        "price": 214.59,
+        "category": "Books",
+        "description": "This is a description for Product 48 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+48"
+    },
+    {
+        "id": 49,
+        "name": "Product 49",
+        "price": 352.7,
+        "category": "Toys",
+        "description": "This is a description for Product 49 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+49",
+        "discount": "25%"
+    },
+    {
+        "id": 50,
+        "name": "Product 50",
+        "price": 224.27,
+        "category": "Clothing",
+        "description": "This is a description for Product 50 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+50",
+        "discount": "20%"
+    },
+    {
+        "id": 51,
+        "name": "Product 51",
+        "price": 485.51,
+        "category": "Automotive",
+        "description": "This is a description for Product 51 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+51",
+        "discount": "15%"
+    },
+    {
+        "id": 52,
+        "name": "Product 52",
+        "price": 323.31,
+        "category": "Clothing",
+        "description": "This is a description for Product 52 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+52"
+    },
+    {
+        "id": 53,
+        "name": "Product 53",
+        "price": 434.4,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 53 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+53",
+        "discount": "5%"
+    },
+    {
+        "id": 54,
+        "name": "Product 54",
+        "price": 332.37,
+        "category": "Automotive",
+        "description": "This is a description for Product 54 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+54"
+    },
+    {
+        "id": 55,
+        "name": "Product 55",
+        "price": 416.77,
+        "category": "Clothing",
+        "description": "This is a description for Product 55 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+55"
+    },
+    {
+        "id": 56,
+        "name": "Product 56",
+        "price": 130.09,
+        "category": "Electronics",
+        "description": "This is a description for Product 56 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+56",
+        "discount": "15%"
+    },
+    {
+        "id": 57,
+        "name": "Product 57",
+        "price": 10.4,
+        "category": "Beauty",
+        "description": "This is a description for Product 57 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+57"
+    },
+    {
+        "id": 58,
+        "name": "Product 58",
+        "price": 464.56,
+        "category": "Toys",
+        "description": "This is a description for Product 58 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+58",
+        "discount": "20%"
+    },
+    {
+        "id": 59,
+        "name": "Product 59",
+        "price": 106.6,
+        "category": "Books",
+        "description": "This is a description for Product 59 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+59"
+    },
+    {
+        "id": 60,
+        "name": "Product 60",
+        "price": 94.27,
+        "category": "Electronics",
+        "description": "This is a description for Product 60 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+60"
+    },
+    {
+        "id": 61,
+        "name": "Product 61",
+        "price": 20.38,
+        "category": "Toys",
+        "description": "This is a description for Product 61 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+61"
+    },
+    {
+        "id": 62,
+        "name": "Product 62",
+        "price": 122.93,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 62 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+62",
+        "discount": "15%"
+    },
+    {
+        "id": 63,
+        "name": "Product 63",
+        "price": 426.72,
+        "category": "Books",
+        "description": "This is a description for Product 63 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+63",
+        "discount": "15%"
+    },
+    {
+        "id": 64,
+        "name": "Product 64",
+        "price": 390.85,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 64 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+64"
+    },
+    {
+        "id": 65,
+        "name": "Product 65",
+        "price": 338.51,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 65 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+65",
+        "discount": "25%"
+    },
+    {
+        "id": 66,
+        "name": "Product 66",
+        "price": 341.11,
+        "category": "Clothing",
+        "description": "This is a description for Product 66 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+66",
+        "discount": "15%"
+    },
+    {
+        "id": 67,
+        "name": "Product 67",
+        "price": 437.23,
+        "category": "Toys",
+        "description": "This is a description for Product 67 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+67"
+    },
+    {
+        "id": 68,
+        "name": "Product 68",
+        "price": 474.29,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 68 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+68"
+    },
+    {
+        "id": 69,
+        "name": "Product 69",
+        "price": 274.53,
+        "category": "Books",
+        "description": "This is a description for Product 69 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+69"
+    },
+    {
+        "id": 70,
+        "name": "Product 70",
+        "price": 466.81,
+        "category": "Books",
+        "description": "This is a description for Product 70 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+70",
+        "discount": "5%"
+    },
+    {
+        "id": 71,
+        "name": "Product 71",
+        "price": 306.66,
+        "category": "Automotive",
+        "description": "This is a description for Product 71 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+71",
+        "discount": "15%"
+    },
+    {
+        "id": 72,
+        "name": "Product 72",
+        "price": 159.38,
+        "category": "Sports",
+        "description": "This is a description for Product 72 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+72",
+        "discount": "25%"
+    },
+    {
+        "id": 73,
+        "name": "Product 73",
+        "price": 157.48,
+        "category": "Clothing",
+        "description": "This is a description for Product 73 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+73"
+    },
+    {
+        "id": 74,
+        "name": "Product 74",
+        "price": 135.46,
+        "category": "Sports",
+        "description": "This is a description for Product 74 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+74"
+    },
+    {
+        "id": 75,
+        "name": "Product 75",
+        "price": 89.15,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 75 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+75"
+    },
+    {
+        "id": 76,
+        "name": "Product 76",
+        "price": 398.88,
+        "category": "Sports",
+        "description": "This is a description for Product 76 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+76",
+        "discount": "15%"
+    },
+    {
+        "id": 77,
+        "name": "Product 77",
+        "price": 491.94,
+        "category": "Books",
+        "description": "This is a description for Product 77 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+77",
+        "discount": "25%"
+    },
+    {
+        "id": 78,
+        "name": "Product 78",
+        "price": 271.67,
+        "category": "Automotive",
+        "description": "This is a description for Product 78 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+78"
+    },
+    {
+        "id": 79,
+        "name": "Product 79",
+        "price": 294.78,
+        "category": "Clothing",
+        "description": "This is a description for Product 79 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+79"
+    },
+    {
+        "id": 80,
+        "name": "Product 80",
+        "price": 395.3,
+        "category": "Electronics",
+        "description": "This is a description for Product 80 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+80"
+    },
+    {
+        "id": 81,
+        "name": "Product 81",
+        "price": 351.69,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 81 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+81",
+        "discount": "5%"
+    },
+    {
+        "id": 82,
+        "name": "Product 82",
+        "price": 199.37,
+        "category": "Toys",
+        "description": "This is a description for Product 82 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+82",
+        "discount": "10%"
+    },
+    {
+        "id": 83,
+        "name": "Product 83",
+        "price": 315.54,
+        "category": "Electronics",
+        "description": "This is a description for Product 83 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+83"
+    },
+    {
+        "id": 84,
+        "name": "Product 84",
+        "price": 74.77,
+        "category": "Sports",
+        "description": "This is a description for Product 84 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+84",
+        "discount": "20%"
+    },
+    {
+        "id": 85,
+        "name": "Product 85",
+        "price": 141.95,
+        "category": "Toys",
+        "description": "This is a description for Product 85 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+85"
+    },
+    {
+        "id": 86,
+        "name": "Product 86",
+        "price": 283.33,
+        "category": "Books",
+        "description": "This is a description for Product 86 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+86",
+        "discount": "20%"
+    },
+    {
+        "id": 87,
+        "name": "Product 87",
+        "price": 205.66,
+        "category": "Clothing",
+        "description": "This is a description for Product 87 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+87",
+        "discount": "15%"
+    },
+    {
+        "id": 88,
+        "name": "Product 88",
+        "price": 423.86,
+        "category": "Sports",
+        "description": "This is a description for Product 88 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+88",
+        "discount": "15%"
+    },
+    {
+        "id": 89,
+        "name": "Product 89",
+        "price": 366.22,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 89 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+89",
+        "discount": "5%"
+    },
+    {
+        "id": 90,
+        "name": "Product 90",
+        "price": 408.48,
+        "category": "Automotive",
+        "description": "This is a description for Product 90 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+90"
+    },
+    {
+        "id": 91,
+        "name": "Product 91",
+        "price": 491.86,
+        "category": "Books",
+        "description": "This is a description for Product 91 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+91"
+    },
+    {
+        "id": 92,
+        "name": "Product 92",
+        "price": 39.05,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 92 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+92"
+    },
+    {
+        "id": 93,
+        "name": "Product 93",
+        "price": 164.89,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 93 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+93"
+    },
+    {
+        "id": 94,
+        "name": "Product 94",
+        "price": 167.38,
+        "category": "Automotive",
+        "description": "This is a description for Product 94 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+94",
+        "discount": "15%"
+    },
+    {
+        "id": 95,
+        "name": "Product 95",
+        "price": 281.65,
+        "category": "Toys",
+        "description": "This is a description for Product 95 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+95"
+    },
+    {
+        "id": 96,
+        "name": "Product 96",
+        "price": 166.92,
+        "category": "Automotive",
+        "description": "This is a description for Product 96 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+96"
+    },
+    {
+        "id": 97,
+        "name": "Product 97",
+        "price": 215.19,
+        "category": "Sports",
+        "description": "This is a description for Product 97 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+97",
+        "discount": "15%"
+    },
+    {
+        "id": 98,
+        "name": "Product 98",
+        "price": 353.95,
+        "category": "Automotive",
+        "description": "This is a description for Product 98 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+98",
+        "discount": "10%"
+    },
+    {
+        "id": 99,
+        "name": "Product 99",
+        "price": 417.68,
+        "category": "Beauty",
+        "description": "This is a description for Product 99 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+99"
+    },
+    {
+        "id": 100,
+        "name": "Product 100",
+        "price": 393.75,
+        "category": "Sports",
+        "description": "This is a description for Product 100 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+100"
+    },
+    {
+        "id": 101,
+        "name": "Product 101",
+        "price": 380.58,
+        "category": "Toys",
+        "description": "This is a description for Product 101 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+101"
+    },
+    {
+        "id": 102,
+        "name": "Product 102",
+        "price": 169.38,
+        "category": "Toys",
+        "description": "This is a description for Product 102 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+102"
+    },
+    {
+        "id": 103,
+        "name": "Product 103",
+        "price": 166.89,
+        "category": "Electronics",
+        "description": "This is a description for Product 103 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+103",
+        "discount": "15%"
+    },
+    {
+        "id": 104,
+        "name": "Product 104",
+        "price": 429.1,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 104 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+104"
+    },
+    {
+        "id": 105,
+        "name": "Product 105",
+        "price": 166.1,
+        "category": "Toys",
+        "description": "This is a description for Product 105 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+105"
+    },
+    {
+        "id": 106,
+        "name": "Product 106",
+        "price": 112.84,
+        "category": "Automotive",
+        "description": "This is a description for Product 106 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+106"
+    },
+    {
+        "id": 107,
+        "name": "Product 107",
+        "price": 108.7,
+        "category": "Clothing",
+        "description": "This is a description for Product 107 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+107"
+    },
+    {
+        "id": 108,
+        "name": "Product 108",
+        "price": 369.28,
+        "category": "Books",
+        "description": "This is a description for Product 108 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+108",
+        "discount": "10%"
+    },
+    {
+        "id": 109,
+        "name": "Product 109",
+        "price": 44.91,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 109 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+109"
+    },
+    {
+        "id": 110,
+        "name": "Product 110",
+        "price": 393.41,
+        "category": "Toys",
+        "description": "This is a description for Product 110 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+110"
+    },
+    {
+        "id": 111,
+        "name": "Product 111",
+        "price": 246.34,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 111 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+111",
+        "discount": "20%"
+    },
+    {
+        "id": 112,
+        "name": "Product 112",
+        "price": 49.28,
+        "category": "Clothing",
+        "description": "This is a description for Product 112 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+112"
+    },
+    {
+        "id": 113,
+        "name": "Product 113",
+        "price": 126.93,
+        "category": "Electronics",
+        "description": "This is a description for Product 113 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+113",
+        "discount": "15%"
+    },
+    {
+        "id": 114,
+        "name": "Product 114",
+        "price": 126.66,
+        "category": "Books",
+        "description": "This is a description for Product 114 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+114"
+    },
+    {
+        "id": 115,
+        "name": "Product 115",
+        "price": 119.93,
+        "category": "Toys",
+        "description": "This is a description for Product 115 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+115"
+    },
+    {
+        "id": 116,
+        "name": "Product 116",
+        "price": 429.23,
+        "category": "Automotive",
+        "description": "This is a description for Product 116 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+116"
+    },
+    {
+        "id": 117,
+        "name": "Product 117",
+        "price": 252.11,
+        "category": "Books",
+        "description": "This is a description for Product 117 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+117",
+        "discount": "10%"
+    },
+    {
+        "id": 118,
+        "name": "Product 118",
+        "price": 173.56,
+        "category": "Toys",
+        "description": "This is a description for Product 118 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+118"
+    },
+    {
+        "id": 119,
+        "name": "Product 119",
+        "price": 291.91,
+        "category": "Sports",
+        "description": "This is a description for Product 119 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+119",
+        "discount": "25%"
+    },
+    {
+        "id": 120,
+        "name": "Product 120",
+        "price": 465.54,
+        "category": "Beauty",
+        "description": "This is a description for Product 120 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+120",
+        "discount": "10%"
+    },
+    {
+        "id": 121,
+        "name": "Product 121",
+        "price": 402.78,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 121 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+121"
+    },
+    {
+        "id": 122,
+        "name": "Product 122",
+        "price": 305.42,
+        "category": "Beauty",
+        "description": "This is a description for Product 122 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+122",
+        "discount": "15%"
+    },
+    {
+        "id": 123,
+        "name": "Product 123",
+        "price": 382.97,
+        "category": "Books",
+        "description": "This is a description for Product 123 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+123",
+        "discount": "15%"
+    },
+    {
+        "id": 124,
+        "name": "Product 124",
+        "price": 252.47,
+        "category": "Books",
+        "description": "This is a description for Product 124 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+124"
+    },
+    {
+        "id": 125,
+        "name": "Product 125",
+        "price": 41.31,
+        "category": "Toys",
+        "description": "This is a description for Product 125 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+125"
+    },
+    {
+        "id": 126,
+        "name": "Product 126",
+        "price": 461.03,
+        "category": "Toys",
+        "description": "This is a description for Product 126 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+126",
+        "discount": "20%"
+    },
+    {
+        "id": 127,
+        "name": "Product 127",
+        "price": 392.58,
+        "category": "Books",
+        "description": "This is a description for Product 127 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+127",
+        "discount": "20%"
+    },
+    {
+        "id": 128,
+        "name": "Product 128",
+        "price": 496.47,
+        "category": "Clothing",
+        "description": "This is a description for Product 128 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+128",
+        "discount": "10%"
+    },
+    {
+        "id": 129,
+        "name": "Product 129",
+        "price": 373.6,
+        "category": "Books",
+        "description": "This is a description for Product 129 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+129",
+        "discount": "10%"
+    },
+    {
+        "id": 130,
+        "name": "Product 130",
+        "price": 145.02,
+        "category": "Toys",
+        "description": "This is a description for Product 130 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+130"
+    },
+    {
+        "id": 131,
+        "name": "Product 131",
+        "price": 94.96,
+        "category": "Automotive",
+        "description": "This is a description for Product 131 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+131"
+    },
+    {
+        "id": 132,
+        "name": "Product 132",
+        "price": 216.12,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 132 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+132"
+    },
+    {
+        "id": 133,
+        "name": "Product 133",
+        "price": 87.38,
+        "category": "Toys",
+        "description": "This is a description for Product 133 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+133",
+        "discount": "20%"
+    },
+    {
+        "id": 134,
+        "name": "Product 134",
+        "price": 124.24,
+        "category": "Electronics",
+        "description": "This is a description for Product 134 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+134"
+    },
+    {
+        "id": 135,
+        "name": "Product 135",
+        "price": 221.87,
+        "category": "Electronics",
+        "description": "This is a description for Product 135 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+135",
+        "discount": "25%"
+    },
+    {
+        "id": 136,
+        "name": "Product 136",
+        "price": 99.79,
+        "category": "Sports",
+        "description": "This is a description for Product 136 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+136"
+    },
+    {
+        "id": 137,
+        "name": "Product 137",
+        "price": 488.31,
+        "category": "Clothing",
+        "description": "This is a description for Product 137 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+137",
+        "discount": "25%"
+    },
+    {
+        "id": 138,
+        "name": "Product 138",
+        "price": 49.35,
+        "category": "Sports",
+        "description": "This is a description for Product 138 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+138",
+        "discount": "25%"
+    },
+    {
+        "id": 139,
+        "name": "Product 139",
+        "price": 77.69,
+        "category": "Books",
+        "description": "This is a description for Product 139 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+139"
+    },
+    {
+        "id": 140,
+        "name": "Product 140",
+        "price": 218.95,
+        "category": "Books",
+        "description": "This is a description for Product 140 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+140",
+        "discount": "15%"
+    },
+    {
+        "id": 141,
+        "name": "Product 141",
+        "price": 469.96,
+        "category": "Books",
+        "description": "This is a description for Product 141 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+141"
+    },
+    {
+        "id": 142,
+        "name": "Product 142",
+        "price": 157.38,
+        "category": "Toys",
+        "description": "This is a description for Product 142 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+142",
+        "discount": "5%"
+    },
+    {
+        "id": 143,
+        "name": "Product 143",
+        "price": 495.74,
+        "category": "Books",
+        "description": "This is a description for Product 143 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+143",
+        "discount": "20%"
+    },
+    {
+        "id": 144,
+        "name": "Product 144",
+        "price": 269.56,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 144 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+144",
+        "discount": "10%"
+    },
+    {
+        "id": 145,
+        "name": "Product 145",
+        "price": 123.54,
+        "category": "Sports",
+        "description": "This is a description for Product 145 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+145"
+    },
+    {
+        "id": 146,
+        "name": "Product 146",
+        "price": 259.34,
+        "category": "Sports",
+        "description": "This is a description for Product 146 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+146"
+    },
+    {
+        "id": 147,
+        "name": "Product 147",
+        "price": 97.3,
+        "category": "Sports",
+        "description": "This is a description for Product 147 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+147",
+        "discount": "25%"
+    },
+    {
+        "id": 148,
+        "name": "Product 148",
+        "price": 52.67,
+        "category": "Clothing",
+        "description": "This is a description for Product 148 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+148",
+        "discount": "25%"
+    },
+    {
+        "id": 149,
+        "name": "Product 149",
+        "price": 319.09,
+        "category": "Clothing",
+        "description": "This is a description for Product 149 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+149",
+        "discount": "10%"
+    },
+    {
+        "id": 150,
+        "name": "Product 150",
+        "price": 261.08,
+        "category": "Automotive",
+        "description": "This is a description for Product 150 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+150",
+        "discount": "20%"
+    },
+    {
+        "id": 151,
+        "name": "Product 151",
+        "price": 78.75,
+        "category": "Beauty",
+        "description": "This is a description for Product 151 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+151",
+        "discount": "5%"
+    },
+    {
+        "id": 152,
+        "name": "Product 152",
+        "price": 334.71,
+        "category": "Beauty",
+        "description": "This is a description for Product 152 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+152"
+    },
+    {
+        "id": 153,
+        "name": "Product 153",
+        "price": 73.14,
+        "category": "Sports",
+        "description": "This is a description for Product 153 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+153",
+        "discount": "5%"
+    },
+    {
+        "id": 154,
+        "name": "Product 154",
+        "price": 128.97,
+        "category": "Beauty",
+        "description": "This is a description for Product 154 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+154",
+        "discount": "20%"
+    },
+    {
+        "id": 155,
+        "name": "Product 155",
+        "price": 155.82,
+        "category": "Automotive",
+        "description": "This is a description for Product 155 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+155"
+    },
+    {
+        "id": 156,
+        "name": "Product 156",
+        "price": 17.85,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 156 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+156"
+    },
+    {
+        "id": 157,
+        "name": "Product 157",
+        "price": 248.8,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 157 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+157",
+        "discount": "5%"
+    },
+    {
+        "id": 158,
+        "name": "Product 158",
+        "price": 166.86,
+        "category": "Toys",
+        "description": "This is a description for Product 158 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+158",
+        "discount": "5%"
+    },
+    {
+        "id": 159,
+        "name": "Product 159",
+        "price": 473.2,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 159 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+159"
+    },
+    {
+        "id": 160,
+        "name": "Product 160",
+        "price": 439.77,
+        "category": "Books",
+        "description": "This is a description for Product 160 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+160"
+    },
+    {
+        "id": 161,
+        "name": "Product 161",
+        "price": 373.76,
+        "category": "Toys",
+        "description": "This is a description for Product 161 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+161"
+    },
+    {
+        "id": 162,
+        "name": "Product 162",
+        "price": 490.56,
+        "category": "Clothing",
+        "description": "This is a description for Product 162 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+162",
+        "discount": "20%"
+    },
+    {
+        "id": 163,
+        "name": "Product 163",
+        "price": 231.5,
+        "category": "Clothing",
+        "description": "This is a description for Product 163 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+163",
+        "discount": "25%"
+    },
+    {
+        "id": 164,
+        "name": "Product 164",
+        "price": 195.99,
+        "category": "Toys",
+        "description": "This is a description for Product 164 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+164",
+        "discount": "5%"
+    },
+    {
+        "id": 165,
+        "name": "Product 165",
+        "price": 131.89,
+        "category": "Clothing",
+        "description": "This is a description for Product 165 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+165",
+        "discount": "25%"
+    },
+    {
+        "id": 166,
+        "name": "Product 166",
+        "price": 385.38,
+        "category": "Automotive",
+        "description": "This is a description for Product 166 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+166"
+    },
+    {
+        "id": 167,
+        "name": "Product 167",
+        "price": 375.36,
+        "category": "Books",
+        "description": "This is a description for Product 167 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+167",
+        "discount": "20%"
+    },
+    {
+        "id": 168,
+        "name": "Product 168",
+        "price": 175.93,
+        "category": "Clothing",
+        "description": "This is a description for Product 168 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+168",
+        "discount": "20%"
+    },
+    {
+        "id": 169,
+        "name": "Product 169",
+        "price": 288.6,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 169 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+169",
+        "discount": "25%"
+    },
+    {
+        "id": 170,
+        "name": "Product 170",
+        "price": 113.98,
+        "category": "Toys",
+        "description": "This is a description for Product 170 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+170",
+        "discount": "20%"
+    },
+    {
+        "id": 171,
+        "name": "Product 171",
+        "price": 14.22,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 171 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+171",
+        "discount": "10%"
+    },
+    {
+        "id": 172,
+        "name": "Product 172",
+        "price": 222.44,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 172 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+172"
+    },
+    {
+        "id": 173,
+        "name": "Product 173",
+        "price": 127.72,
+        "category": "Electronics",
+        "description": "This is a description for Product 173 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+173"
+    },
+    {
+        "id": 174,
+        "name": "Product 174",
+        "price": 103.07,
+        "category": "Clothing",
+        "description": "This is a description for Product 174 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+174"
+    },
+    {
+        "id": 175,
+        "name": "Product 175",
+        "price": 215.37,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 175 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+175",
+        "discount": "5%"
+    },
+    {
+        "id": 176,
+        "name": "Product 176",
+        "price": 432.53,
+        "category": "Clothing",
+        "description": "This is a description for Product 176 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+176"
+    },
+    {
+        "id": 177,
+        "name": "Product 177",
+        "price": 74.14,
+        "category": "Beauty",
+        "description": "This is a description for Product 177 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+177",
+        "discount": "10%"
+    },
+    {
+        "id": 178,
+        "name": "Product 178",
+        "price": 306.65,
+        "category": "Sports",
+        "description": "This is a description for Product 178 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+178"
+    },
+    {
+        "id": 179,
+        "name": "Product 179",
+        "price": 225.38,
+        "category": "Books",
+        "description": "This is a description for Product 179 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+179",
+        "discount": "20%"
+    },
+    {
+        "id": 180,
+        "name": "Product 180",
+        "price": 283.29,
+        "category": "Electronics",
+        "description": "This is a description for Product 180 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+180"
+    },
+    {
+        "id": 181,
+        "name": "Product 181",
+        "price": 328.37,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 181 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+181",
+        "discount": "5%"
+    },
+    {
+        "id": 182,
+        "name": "Product 182",
+        "price": 283.66,
+        "category": "Beauty",
+        "description": "This is a description for Product 182 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+182"
+    },
+    {
+        "id": 183,
+        "name": "Product 183",
+        "price": 199.22,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 183 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+183"
+    },
+    {
+        "id": 184,
+        "name": "Product 184",
+        "price": 193.97,
+        "category": "Books",
+        "description": "This is a description for Product 184 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+184",
+        "discount": "25%"
+    },
+    {
+        "id": 185,
+        "name": "Product 185",
+        "price": 278.19,
+        "category": "Toys",
+        "description": "This is a description for Product 185 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+185"
+    },
+    {
+        "id": 186,
+        "name": "Product 186",
+        "price": 495.05,
+        "category": "Electronics",
+        "description": "This is a description for Product 186 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+186"
+    },
+    {
+        "id": 187,
+        "name": "Product 187",
+        "price": 404.73,
+        "category": "Electronics",
+        "description": "This is a description for Product 187 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+187",
+        "discount": "25%"
+    },
+    {
+        "id": 188,
+        "name": "Product 188",
+        "price": 139.27,
+        "category": "Electronics",
+        "description": "This is a description for Product 188 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+188",
+        "discount": "25%"
+    },
+    {
+        "id": 189,
+        "name": "Product 189",
+        "price": 105.99,
+        "category": "Automotive",
+        "description": "This is a description for Product 189 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+189"
+    },
+    {
+        "id": 190,
+        "name": "Product 190",
+        "price": 438.45,
+        "category": "Toys",
+        "description": "This is a description for Product 190 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+190",
+        "discount": "25%"
+    },
+    {
+        "id": 191,
+        "name": "Product 191",
+        "price": 296.29,
+        "category": "Sports",
+        "description": "This is a description for Product 191 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+191",
+        "discount": "5%"
+    },
+    {
+        "id": 192,
+        "name": "Product 192",
+        "price": 267.98,
+        "category": "Automotive",
+        "description": "This is a description for Product 192 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+192"
+    },
+    {
+        "id": 193,
+        "name": "Product 193",
+        "price": 256.15,
+        "category": "Clothing",
+        "description": "This is a description for Product 193 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+193",
+        "discount": "10%"
+    },
+    {
+        "id": 194,
+        "name": "Product 194",
+        "price": 68.36,
+        "category": "Electronics",
+        "description": "This is a description for Product 194 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+194",
+        "discount": "15%"
+    },
+    {
+        "id": 195,
+        "name": "Product 195",
+        "price": 332.99,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 195 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+195"
+    },
+    {
+        "id": 196,
+        "name": "Product 196",
+        "price": 179.07,
+        "category": "Automotive",
+        "description": "This is a description for Product 196 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+196",
+        "discount": "15%"
+    },
+    {
+        "id": 197,
+        "name": "Product 197",
+        "price": 166.65,
+        "category": "Electronics",
+        "description": "This is a description for Product 197 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+197"
+    },
+    {
+        "id": 198,
+        "name": "Product 198",
+        "price": 70.79,
+        "category": "Automotive",
+        "description": "This is a description for Product 198 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+198"
+    },
+    {
+        "id": 199,
+        "name": "Product 199",
+        "price": 406.58,
+        "category": "Electronics",
+        "description": "This is a description for Product 199 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+199",
+        "discount": "25%"
+    },
+    {
+        "id": 200,
+        "name": "Product 200",
+        "price": 330.72,
+        "category": "Toys",
+        "description": "This is a description for Product 200 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+200"
+    },
+    {
+        "id": 201,
+        "name": "Product 201",
+        "price": 68.54,
+        "category": "Automotive",
+        "description": "This is a description for Product 201 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+201",
+        "discount": "25%"
+    },
+    {
+        "id": 202,
+        "name": "Product 202",
+        "price": 204.37,
+        "category": "Electronics",
+        "description": "This is a description for Product 202 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+202"
+    },
+    {
+        "id": 203,
+        "name": "Product 203",
+        "price": 280.37,
+        "category": "Books",
+        "description": "This is a description for Product 203 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+203",
+        "discount": "20%"
+    },
+    {
+        "id": 204,
+        "name": "Product 204",
+        "price": 138.68,
+        "category": "Toys",
+        "description": "This is a description for Product 204 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+204",
+        "discount": "10%"
+    },
+    {
+        "id": 205,
+        "name": "Product 205",
+        "price": 96.34,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 205 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+205"
+    },
+    {
+        "id": 206,
+        "name": "Product 206",
+        "price": 72.63,
+        "category": "Sports",
+        "description": "This is a description for Product 206 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+206"
+    },
+    {
+        "id": 207,
+        "name": "Product 207",
+        "price": 99.14,
+        "category": "Books",
+        "description": "This is a description for Product 207 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+207",
+        "discount": "25%"
+    },
+    {
+        "id": 208,
+        "name": "Product 208",
+        "price": 292.07,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 208 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+208"
+    },
+    {
+        "id": 209,
+        "name": "Product 209",
+        "price": 248.99,
+        "category": "Beauty",
+        "description": "This is a description for Product 209 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+209",
+        "discount": "5%"
+    },
+    {
+        "id": 210,
+        "name": "Product 210",
+        "price": 434.47,
+        "category": "Automotive",
+        "description": "This is a description for Product 210 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+210"
+    },
+    {
+        "id": 211,
+        "name": "Product 211",
+        "price": 460.08,
+        "category": "Beauty",
+        "description": "This is a description for Product 211 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+211",
+        "discount": "5%"
+    },
+    {
+        "id": 212,
+        "name": "Product 212",
+        "price": 462.09,
+        "category": "Automotive",
+        "description": "This is a description for Product 212 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+212",
+        "discount": "20%"
+    },
+    {
+        "id": 213,
+        "name": "Product 213",
+        "price": 222.61,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 213 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+213",
+        "discount": "25%"
+    },
+    {
+        "id": 214,
+        "name": "Product 214",
+        "price": 115.77,
+        "category": "Sports",
+        "description": "This is a description for Product 214 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+214",
+        "discount": "5%"
+    },
+    {
+        "id": 215,
+        "name": "Product 215",
+        "price": 417.24,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 215 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+215"
+    },
+    {
+        "id": 216,
+        "name": "Product 216",
+        "price": 196.82,
+        "category": "Books",
+        "description": "This is a description for Product 216 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+216",
+        "discount": "10%"
+    },
+    {
+        "id": 217,
+        "name": "Product 217",
+        "price": 306.05,
+        "category": "Beauty",
+        "description": "This is a description for Product 217 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+217"
+    },
+    {
+        "id": 218,
+        "name": "Product 218",
+        "price": 459.01,
+        "category": "Clothing",
+        "description": "This is a description for Product 218 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+218",
+        "discount": "10%"
+    },
+    {
+        "id": 219,
+        "name": "Product 219",
+        "price": 196.1,
+        "category": "Clothing",
+        "description": "This is a description for Product 219 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+219"
+    },
+    {
+        "id": 220,
+        "name": "Product 220",
+        "price": 326.2,
+        "category": "Clothing",
+        "description": "This is a description for Product 220 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+220",
+        "discount": "25%"
+    },
+    {
+        "id": 221,
+        "name": "Product 221",
+        "price": 305.75,
+        "category": "Clothing",
+        "description": "This is a description for Product 221 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+221"
+    },
+    {
+        "id": 222,
+        "name": "Product 222",
+        "price": 414.65,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 222 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+222",
+        "discount": "10%"
+    },
+    {
+        "id": 223,
+        "name": "Product 223",
+        "price": 230.69,
+        "category": "Toys",
+        "description": "This is a description for Product 223 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+223"
+    },
+    {
+        "id": 224,
+        "name": "Product 224",
+        "price": 180.88,
+        "category": "Books",
+        "description": "This is a description for Product 224 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+224"
+    },
+    {
+        "id": 225,
+        "name": "Product 225",
+        "price": 289.06,
+        "category": "Beauty",
+        "description": "This is a description for Product 225 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+225",
+        "discount": "25%"
+    },
+    {
+        "id": 226,
+        "name": "Product 226",
+        "price": 81.71,
+        "category": "Beauty",
+        "description": "This is a description for Product 226 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+226"
+    },
+    {
+        "id": 227,
+        "name": "Product 227",
+        "price": 176.64,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 227 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+227"
+    },
+    {
+        "id": 228,
+        "name": "Product 228",
+        "price": 10.93,
+        "category": "Books",
+        "description": "This is a description for Product 228 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+228",
+        "discount": "10%"
+    },
+    {
+        "id": 229,
+        "name": "Product 229",
+        "price": 290.72,
+        "category": "Clothing",
+        "description": "This is a description for Product 229 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+229",
+        "discount": "5%"
+    },
+    {
+        "id": 230,
+        "name": "Product 230",
+        "price": 19.18,
+        "category": "Automotive",
+        "description": "This is a description for Product 230 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+230"
+    },
+    {
+        "id": 231,
+        "name": "Product 231",
+        "price": 91.79,
+        "category": "Automotive",
+        "description": "This is a description for Product 231 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+231",
+        "discount": "20%"
+    },
+    {
+        "id": 232,
+        "name": "Product 232",
+        "price": 152.26,
+        "category": "Toys",
+        "description": "This is a description for Product 232 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+232"
+    },
+    {
+        "id": 233,
+        "name": "Product 233",
+        "price": 119.06,
+        "category": "Toys",
+        "description": "This is a description for Product 233 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+233"
+    },
+    {
+        "id": 234,
+        "name": "Product 234",
+        "price": 27.63,
+        "category": "Electronics",
+        "description": "This is a description for Product 234 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+234"
+    },
+    {
+        "id": 235,
+        "name": "Product 235",
+        "price": 319.84,
+        "category": "Clothing",
+        "description": "This is a description for Product 235 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+235"
+    },
+    {
+        "id": 236,
+        "name": "Product 236",
+        "price": 34.86,
+        "category": "Automotive",
+        "description": "This is a description for Product 236 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+236",
+        "discount": "20%"
+    },
+    {
+        "id": 237,
+        "name": "Product 237",
+        "price": 151.91,
+        "category": "Clothing",
+        "description": "This is a description for Product 237 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+237"
+    },
+    {
+        "id": 238,
+        "name": "Product 238",
+        "price": 199.9,
+        "category": "Books",
+        "description": "This is a description for Product 238 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+238",
+        "discount": "10%"
+    },
+    {
+        "id": 239,
+        "name": "Product 239",
+        "price": 354.36,
+        "category": "Books",
+        "description": "This is a description for Product 239 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+239"
+    },
+    {
+        "id": 240,
+        "name": "Product 240",
+        "price": 427.25,
+        "category": "Books",
+        "description": "This is a description for Product 240 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+240"
+    },
+    {
+        "id": 241,
+        "name": "Product 241",
+        "price": 95.0,
+        "category": "Electronics",
+        "description": "This is a description for Product 241 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+241",
+        "discount": "25%"
+    },
+    {
+        "id": 242,
+        "name": "Product 242",
+        "price": 266.91,
+        "category": "Clothing",
+        "description": "This is a description for Product 242 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+242",
+        "discount": "5%"
+    },
+    {
+        "id": 243,
+        "name": "Product 243",
+        "price": 326.35,
+        "category": "Beauty",
+        "description": "This is a description for Product 243 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+243"
+    },
+    {
+        "id": 244,
+        "name": "Product 244",
+        "price": 464.1,
+        "category": "Clothing",
+        "description": "This is a description for Product 244 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+244"
+    },
+    {
+        "id": 245,
+        "name": "Product 245",
+        "price": 119.8,
+        "category": "Books",
+        "description": "This is a description for Product 245 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+245",
+        "discount": "25%"
+    },
+    {
+        "id": 246,
+        "name": "Product 246",
+        "price": 324.84,
+        "category": "Clothing",
+        "description": "This is a description for Product 246 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+246"
+    },
+    {
+        "id": 247,
+        "name": "Product 247",
+        "price": 464.21,
+        "category": "Automotive",
+        "description": "This is a description for Product 247 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+247"
+    },
+    {
+        "id": 248,
+        "name": "Product 248",
+        "price": 228.59,
+        "category": "Beauty",
+        "description": "This is a description for Product 248 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+248",
+        "discount": "15%"
+    },
+    {
+        "id": 249,
+        "name": "Product 249",
+        "price": 493.64,
+        "category": "Beauty",
+        "description": "This is a description for Product 249 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+249"
+    },
+    {
+        "id": 250,
+        "name": "Product 250",
+        "price": 187.93,
+        "category": "Electronics",
+        "description": "This is a description for Product 250 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+250",
+        "discount": "15%"
+    },
+    {
+        "id": 251,
+        "name": "Product 251",
+        "price": 220.56,
+        "category": "Books",
+        "description": "This is a description for Product 251 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+251",
+        "discount": "25%"
+    },
+    {
+        "id": 252,
+        "name": "Product 252",
+        "price": 350.67,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 252 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+252"
+    },
+    {
+        "id": 253,
+        "name": "Product 253",
+        "price": 196.65,
+        "category": "Electronics",
+        "description": "This is a description for Product 253 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+253",
+        "discount": "25%"
+    },
+    {
+        "id": 254,
+        "name": "Product 254",
+        "price": 148.32,
+        "category": "Automotive",
+        "description": "This is a description for Product 254 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+254",
+        "discount": "10%"
+    },
+    {
+        "id": 255,
+        "name": "Product 255",
+        "price": 256.98,
+        "category": "Toys",
+        "description": "This is a description for Product 255 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+255"
+    },
+    {
+        "id": 256,
+        "name": "Product 256",
+        "price": 131.0,
+        "category": "Clothing",
+        "description": "This is a description for Product 256 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+256"
+    },
+    {
+        "id": 257,
+        "name": "Product 257",
+        "price": 390.86,
+        "category": "Sports",
+        "description": "This is a description for Product 257 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+257"
+    },
+    {
+        "id": 258,
+        "name": "Product 258",
+        "price": 300.01,
+        "category": "Books",
+        "description": "This is a description for Product 258 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+258",
+        "discount": "10%"
+    },
+    {
+        "id": 259,
+        "name": "Product 259",
+        "price": 456.86,
+        "category": "Automotive",
+        "description": "This is a description for Product 259 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+259",
+        "discount": "5%"
+    },
+    {
+        "id": 260,
+        "name": "Product 260",
+        "price": 56.71,
+        "category": "Sports",
+        "description": "This is a description for Product 260 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+260"
+    },
+    {
+        "id": 261,
+        "name": "Product 261",
+        "price": 131.66,
+        "category": "Toys",
+        "description": "This is a description for Product 261 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+261"
+    },
+    {
+        "id": 262,
+        "name": "Product 262",
+        "price": 252.09,
+        "category": "Beauty",
+        "description": "This is a description for Product 262 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+262",
+        "discount": "5%"
+    },
+    {
+        "id": 263,
+        "name": "Product 263",
+        "price": 105.73,
+        "category": "Automotive",
+        "description": "This is a description for Product 263 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+263",
+        "discount": "5%"
+    },
+    {
+        "id": 264,
+        "name": "Product 264",
+        "price": 299.38,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 264 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+264",
+        "discount": "5%"
+    },
+    {
+        "id": 265,
+        "name": "Product 265",
+        "price": 470.57,
+        "category": "Toys",
+        "description": "This is a description for Product 265 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+265"
+    },
+    {
+        "id": 266,
+        "name": "Product 266",
+        "price": 288.05,
+        "category": "Electronics",
+        "description": "This is a description for Product 266 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+266",
+        "discount": "25%"
+    },
+    {
+        "id": 267,
+        "name": "Product 267",
+        "price": 232.98,
+        "category": "Toys",
+        "description": "This is a description for Product 267 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+267",
+        "discount": "20%"
+    },
+    {
+        "id": 268,
+        "name": "Product 268",
+        "price": 264.36,
+        "category": "Beauty",
+        "description": "This is a description for Product 268 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+268",
+        "discount": "15%"
+    },
+    {
+        "id": 269,
+        "name": "Product 269",
+        "price": 385.11,
+        "category": "Sports",
+        "description": "This is a description for Product 269 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+269",
+        "discount": "25%"
+    },
+    {
+        "id": 270,
+        "name": "Product 270",
+        "price": 193.22,
+        "category": "Toys",
+        "description": "This is a description for Product 270 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+270",
+        "discount": "15%"
+    },
+    {
+        "id": 271,
+        "name": "Product 271",
+        "price": 158.74,
+        "category": "Clothing",
+        "description": "This is a description for Product 271 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+271",
+        "discount": "25%"
+    },
+    {
+        "id": 272,
+        "name": "Product 272",
+        "price": 330.3,
+        "category": "Electronics",
+        "description": "This is a description for Product 272 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+272"
+    },
+    {
+        "id": 273,
+        "name": "Product 273",
+        "price": 61.48,
+        "category": "Beauty",
+        "description": "This is a description for Product 273 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+273",
+        "discount": "5%"
+    },
+    {
+        "id": 274,
+        "name": "Product 274",
+        "price": 383.07,
+        "category": "Books",
+        "description": "This is a description for Product 274 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+274",
+        "discount": "25%"
+    },
+    {
+        "id": 275,
+        "name": "Product 275",
+        "price": 114.52,
+        "category": "Electronics",
+        "description": "This is a description for Product 275 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+275",
+        "discount": "15%"
+    },
+    {
+        "id": 276,
+        "name": "Product 276",
+        "price": 206.98,
+        "category": "Clothing",
+        "description": "This is a description for Product 276 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+276",
+        "discount": "10%"
+    },
+    {
+        "id": 277,
+        "name": "Product 277",
+        "price": 411.03,
+        "category": "Books",
+        "description": "This is a description for Product 277 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+277"
+    },
+    {
+        "id": 278,
+        "name": "Product 278",
+        "price": 379.24,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 278 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+278"
+    },
+    {
+        "id": 279,
+        "name": "Product 279",
+        "price": 180.41,
+        "category": "Sports",
+        "description": "This is a description for Product 279 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+279",
+        "discount": "5%"
+    },
+    {
+        "id": 280,
+        "name": "Product 280",
+        "price": 491.51,
+        "category": "Beauty",
+        "description": "This is a description for Product 280 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+280"
+    },
+    {
+        "id": 281,
+        "name": "Product 281",
+        "price": 90.02,
+        "category": "Clothing",
+        "description": "This is a description for Product 281 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+281"
+    },
+    {
+        "id": 282,
+        "name": "Product 282",
+        "price": 177.15,
+        "category": "Toys",
+        "description": "This is a description for Product 282 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+282",
+        "discount": "10%"
+    },
+    {
+        "id": 283,
+        "name": "Product 283",
+        "price": 263.8,
+        "category": "Toys",
+        "description": "This is a description for Product 283 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+283",
+        "discount": "15%"
+    },
+    {
+        "id": 284,
+        "name": "Product 284",
+        "price": 132.33,
+        "category": "Automotive",
+        "description": "This is a description for Product 284 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+284",
+        "discount": "10%"
+    },
+    {
+        "id": 285,
+        "name": "Product 285",
+        "price": 321.85,
+        "category": "Automotive",
+        "description": "This is a description for Product 285 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+285"
+    },
+    {
+        "id": 286,
+        "name": "Product 286",
+        "price": 299.07,
+        "category": "Books",
+        "description": "This is a description for Product 286 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+286",
+        "discount": "5%"
+    },
+    {
+        "id": 287,
+        "name": "Product 287",
+        "price": 25.37,
+        "category": "Toys",
+        "description": "This is a description for Product 287 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+287"
+    },
+    {
+        "id": 288,
+        "name": "Product 288",
+        "price": 303.11,
+        "category": "Beauty",
+        "description": "This is a description for Product 288 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+288",
+        "discount": "20%"
+    },
+    {
+        "id": 289,
+        "name": "Product 289",
+        "price": 78.82,
+        "category": "Clothing",
+        "description": "This is a description for Product 289 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+289"
+    },
+    {
+        "id": 290,
+        "name": "Product 290",
+        "price": 14.15,
+        "category": "Books",
+        "description": "This is a description for Product 290 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+290",
+        "discount": "25%"
+    },
+    {
+        "id": 291,
+        "name": "Product 291",
+        "price": 56.54,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 291 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+291",
+        "discount": "20%"
+    },
+    {
+        "id": 292,
+        "name": "Product 292",
+        "price": 141.91,
+        "category": "Toys",
+        "description": "This is a description for Product 292 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+292",
+        "discount": "5%"
+    },
+    {
+        "id": 293,
+        "name": "Product 293",
+        "price": 421.99,
+        "category": "Beauty",
+        "description": "This is a description for Product 293 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+293"
+    },
+    {
+        "id": 294,
+        "name": "Product 294",
+        "price": 403.4,
+        "category": "Sports",
+        "description": "This is a description for Product 294 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+294"
+    },
+    {
+        "id": 295,
+        "name": "Product 295",
+        "price": 244.39,
+        "category": "Sports",
+        "description": "This is a description for Product 295 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+295"
+    },
+    {
+        "id": 296,
+        "name": "Product 296",
+        "price": 446.98,
+        "category": "Beauty",
+        "description": "This is a description for Product 296 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+296"
+    },
+    {
+        "id": 297,
+        "name": "Product 297",
+        "price": 82.64,
+        "category": "Toys",
+        "description": "This is a description for Product 297 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+297",
+        "discount": "20%"
+    },
+    {
+        "id": 298,
+        "name": "Product 298",
+        "price": 67.98,
+        "category": "Toys",
+        "description": "This is a description for Product 298 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+298",
+        "discount": "25%"
+    },
+    {
+        "id": 299,
+        "name": "Product 299",
+        "price": 489.59,
+        "category": "Electronics",
+        "description": "This is a description for Product 299 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+299"
+    },
+    {
+        "id": 300,
+        "name": "Product 300",
+        "price": 486.28,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 300 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+300"
+    },
+    {
+        "id": 301,
+        "name": "Product 301",
+        "price": 241.65,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 301 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+301",
+        "discount": "25%"
+    },
+    {
+        "id": 302,
+        "name": "Product 302",
+        "price": 360.12,
+        "category": "Toys",
+        "description": "This is a description for Product 302 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+302"
+    },
+    {
+        "id": 303,
+        "name": "Product 303",
+        "price": 389.29,
+        "category": "Beauty",
+        "description": "This is a description for Product 303 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+303"
+    },
+    {
+        "id": 304,
+        "name": "Product 304",
+        "price": 208.55,
+        "category": "Clothing",
+        "description": "This is a description for Product 304 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+304"
+    },
+    {
+        "id": 305,
+        "name": "Product 305",
+        "price": 108.25,
+        "category": "Beauty",
+        "description": "This is a description for Product 305 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+305",
+        "discount": "20%"
+    },
+    {
+        "id": 306,
+        "name": "Product 306",
+        "price": 489.11,
+        "category": "Sports",
+        "description": "This is a description for Product 306 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+306",
+        "discount": "20%"
+    },
+    {
+        "id": 307,
+        "name": "Product 307",
+        "price": 33.41,
+        "category": "Automotive",
+        "description": "This is a description for Product 307 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+307"
+    },
+    {
+        "id": 308,
+        "name": "Product 308",
+        "price": 89.04,
+        "category": "Toys",
+        "description": "This is a description for Product 308 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+308",
+        "discount": "10%"
+    },
+    {
+        "id": 309,
+        "name": "Product 309",
+        "price": 30.8,
+        "category": "Toys",
+        "description": "This is a description for Product 309 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+309",
+        "discount": "20%"
+    },
+    {
+        "id": 310,
+        "name": "Product 310",
+        "price": 413.18,
+        "category": "Automotive",
+        "description": "This is a description for Product 310 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+310"
+    },
+    {
+        "id": 311,
+        "name": "Product 311",
+        "price": 401.58,
+        "category": "Clothing",
+        "description": "This is a description for Product 311 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+311"
+    },
+    {
+        "id": 312,
+        "name": "Product 312",
+        "price": 75.41,
+        "category": "Sports",
+        "description": "This is a description for Product 312 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+312",
+        "discount": "10%"
+    },
+    {
+        "id": 313,
+        "name": "Product 313",
+        "price": 279.54,
+        "category": "Sports",
+        "description": "This is a description for Product 313 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+313",
+        "discount": "15%"
+    },
+    {
+        "id": 314,
+        "name": "Product 314",
+        "price": 377.95,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 314 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+314",
+        "discount": "25%"
+    },
+    {
+        "id": 315,
+        "name": "Product 315",
+        "price": 80.21,
+        "category": "Beauty",
+        "description": "This is a description for Product 315 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+315"
+    },
+    {
+        "id": 316,
+        "name": "Product 316",
+        "price": 477.33,
+        "category": "Clothing",
+        "description": "This is a description for Product 316 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+316"
+    },
+    {
+        "id": 317,
+        "name": "Product 317",
+        "price": 100.95,
+        "category": "Beauty",
+        "description": "This is a description for Product 317 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+317"
+    },
+    {
+        "id": 318,
+        "name": "Product 318",
+        "price": 114.02,
+        "category": "Beauty",
+        "description": "This is a description for Product 318 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+318"
+    },
+    {
+        "id": 319,
+        "name": "Product 319",
+        "price": 429.41,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 319 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+319",
+        "discount": "15%"
+    },
+    {
+        "id": 320,
+        "name": "Product 320",
+        "price": 135.66,
+        "category": "Beauty",
+        "description": "This is a description for Product 320 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+320"
+    },
+    {
+        "id": 321,
+        "name": "Product 321",
+        "price": 455.03,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 321 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+321",
+        "discount": "10%"
+    },
+    {
+        "id": 322,
+        "name": "Product 322",
+        "price": 64.87,
+        "category": "Toys",
+        "description": "This is a description for Product 322 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+322",
+        "discount": "25%"
+    },
+    {
+        "id": 323,
+        "name": "Product 323",
+        "price": 431.43,
+        "category": "Clothing",
+        "description": "This is a description for Product 323 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+323"
+    },
+    {
+        "id": 324,
+        "name": "Product 324",
+        "price": 89.64,
+        "category": "Toys",
+        "description": "This is a description for Product 324 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+324"
+    },
+    {
+        "id": 325,
+        "name": "Product 325",
+        "price": 489.05,
+        "category": "Books",
+        "description": "This is a description for Product 325 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+325",
+        "discount": "20%"
+    },
+    {
+        "id": 326,
+        "name": "Product 326",
+        "price": 48.16,
+        "category": "Beauty",
+        "description": "This is a description for Product 326 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+326"
+    },
+    {
+        "id": 327,
+        "name": "Product 327",
+        "price": 473.85,
+        "category": "Toys",
+        "description": "This is a description for Product 327 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+327"
+    },
+    {
+        "id": 328,
+        "name": "Product 328",
+        "price": 362.97,
+        "category": "Books",
+        "description": "This is a description for Product 328 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+328"
+    },
+    {
+        "id": 329,
+        "name": "Product 329",
+        "price": 387.75,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 329 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+329"
+    },
+    {
+        "id": 330,
+        "name": "Product 330",
+        "price": 271.15,
+        "category": "Electronics",
+        "description": "This is a description for Product 330 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+330"
+    },
+    {
+        "id": 331,
+        "name": "Product 331",
+        "price": 386.67,
+        "category": "Clothing",
+        "description": "This is a description for Product 331 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+331",
+        "discount": "10%"
+    },
+    {
+        "id": 332,
+        "name": "Product 332",
+        "price": 143.92,
+        "category": "Toys",
+        "description": "This is a description for Product 332 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+332",
+        "discount": "10%"
+    },
+    {
+        "id": 333,
+        "name": "Product 333",
+        "price": 376.78,
+        "category": "Sports",
+        "description": "This is a description for Product 333 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+333"
+    },
+    {
+        "id": 334,
+        "name": "Product 334",
+        "price": 356.13,
+        "category": "Sports",
+        "description": "This is a description for Product 334 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+334"
+    },
+    {
+        "id": 335,
+        "name": "Product 335",
+        "price": 395.94,
+        "category": "Sports",
+        "description": "This is a description for Product 335 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+335",
+        "discount": "15%"
+    },
+    {
+        "id": 336,
+        "name": "Product 336",
+        "price": 127.92,
+        "category": "Books",
+        "description": "This is a description for Product 336 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+336",
+        "discount": "25%"
+    },
+    {
+        "id": 337,
+        "name": "Product 337",
+        "price": 17.72,
+        "category": "Electronics",
+        "description": "This is a description for Product 337 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+337",
+        "discount": "5%"
+    },
+    {
+        "id": 338,
+        "name": "Product 338",
+        "price": 352.93,
+        "category": "Books",
+        "description": "This is a description for Product 338 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+338",
+        "discount": "15%"
+    },
+    {
+        "id": 339,
+        "name": "Product 339",
+        "price": 74.37,
+        "category": "Electronics",
+        "description": "This is a description for Product 339 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+339"
+    },
+    {
+        "id": 340,
+        "name": "Product 340",
+        "price": 247.51,
+        "category": "Toys",
+        "description": "This is a description for Product 340 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+340",
+        "discount": "10%"
+    },
+    {
+        "id": 341,
+        "name": "Product 341",
+        "price": 208.19,
+        "category": "Electronics",
+        "description": "This is a description for Product 341 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+341"
+    },
+    {
+        "id": 342,
+        "name": "Product 342",
+        "price": 164.25,
+        "category": "Beauty",
+        "description": "This is a description for Product 342 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+342",
+        "discount": "25%"
+    },
+    {
+        "id": 343,
+        "name": "Product 343",
+        "price": 478.16,
+        "category": "Beauty",
+        "description": "This is a description for Product 343 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+343"
+    },
+    {
+        "id": 344,
+        "name": "Product 344",
+        "price": 172.03,
+        "category": "Books",
+        "description": "This is a description for Product 344 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+344",
+        "discount": "25%"
+    },
+    {
+        "id": 345,
+        "name": "Product 345",
+        "price": 323.67,
+        "category": "Toys",
+        "description": "This is a description for Product 345 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+345",
+        "discount": "20%"
+    },
+    {
+        "id": 346,
+        "name": "Product 346",
+        "price": 328.76,
+        "category": "Beauty",
+        "description": "This is a description for Product 346 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+346"
+    },
+    {
+        "id": 347,
+        "name": "Product 347",
+        "price": 140.25,
+        "category": "Electronics",
+        "description": "This is a description for Product 347 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+347",
+        "discount": "20%"
+    },
+    {
+        "id": 348,
+        "name": "Product 348",
+        "price": 127.32,
+        "category": "Clothing",
+        "description": "This is a description for Product 348 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+348"
+    },
+    {
+        "id": 349,
+        "name": "Product 349",
+        "price": 246.83,
+        "category": "Books",
+        "description": "This is a description for Product 349 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+349",
+        "discount": "25%"
+    },
+    {
+        "id": 350,
+        "name": "Product 350",
+        "price": 25.98,
+        "category": "Sports",
+        "description": "This is a description for Product 350 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+350"
+    },
+    {
+        "id": 351,
+        "name": "Product 351",
+        "price": 301.23,
+        "category": "Beauty",
+        "description": "This is a description for Product 351 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+351"
+    },
+    {
+        "id": 352,
+        "name": "Product 352",
+        "price": 175.94,
+        "category": "Beauty",
+        "description": "This is a description for Product 352 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+352"
+    },
+    {
+        "id": 353,
+        "name": "Product 353",
+        "price": 167.57,
+        "category": "Books",
+        "description": "This is a description for Product 353 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+353",
+        "discount": "5%"
+    },
+    {
+        "id": 354,
+        "name": "Product 354",
+        "price": 208.15,
+        "category": "Sports",
+        "description": "This is a description for Product 354 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+354"
+    },
+    {
+        "id": 355,
+        "name": "Product 355",
+        "price": 206.87,
+        "category": "Clothing",
+        "description": "This is a description for Product 355 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+355",
+        "discount": "10%"
+    },
+    {
+        "id": 356,
+        "name": "Product 356",
+        "price": 231.01,
+        "category": "Clothing",
+        "description": "This is a description for Product 356 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+356"
+    },
+    {
+        "id": 357,
+        "name": "Product 357",
+        "price": 153.09,
+        "category": "Clothing",
+        "description": "This is a description for Product 357 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+357",
+        "discount": "15%"
+    },
+    {
+        "id": 358,
+        "name": "Product 358",
+        "price": 92.96,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 358 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+358"
+    },
+    {
+        "id": 359,
+        "name": "Product 359",
+        "price": 75.27,
+        "category": "Toys",
+        "description": "This is a description for Product 359 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+359"
+    },
+    {
+        "id": 360,
+        "name": "Product 360",
+        "price": 31.84,
+        "category": "Sports",
+        "description": "This is a description for Product 360 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+360"
+    },
+    {
+        "id": 361,
+        "name": "Product 361",
+        "price": 59.17,
+        "category": "Sports",
+        "description": "This is a description for Product 361 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+361"
+    },
+    {
+        "id": 362,
+        "name": "Product 362",
+        "price": 156.67,
+        "category": "Toys",
+        "description": "This is a description for Product 362 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+362"
+    },
+    {
+        "id": 363,
+        "name": "Product 363",
+        "price": 92.36,
+        "category": "Automotive",
+        "description": "This is a description for Product 363 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+363"
+    },
+    {
+        "id": 364,
+        "name": "Product 364",
+        "price": 282.29,
+        "category": "Automotive",
+        "description": "This is a description for Product 364 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+364"
+    },
+    {
+        "id": 365,
+        "name": "Product 365",
+        "price": 31.53,
+        "category": "Electronics",
+        "description": "This is a description for Product 365 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+365"
+    },
+    {
+        "id": 366,
+        "name": "Product 366",
+        "price": 173.28,
+        "category": "Sports",
+        "description": "This is a description for Product 366 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+366",
+        "discount": "15%"
+    },
+    {
+        "id": 367,
+        "name": "Product 367",
+        "price": 498.77,
+        "category": "Automotive",
+        "description": "This is a description for Product 367 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+367",
+        "discount": "10%"
+    },
+    {
+        "id": 368,
+        "name": "Product 368",
+        "price": 496.79,
+        "category": "Automotive",
+        "description": "This is a description for Product 368 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+368",
+        "discount": "20%"
+    },
+    {
+        "id": 369,
+        "name": "Product 369",
+        "price": 94.6,
+        "category": "Electronics",
+        "description": "This is a description for Product 369 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+369"
+    },
+    {
+        "id": 370,
+        "name": "Product 370",
+        "price": 51.05,
+        "category": "Electronics",
+        "description": "This is a description for Product 370 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+370",
+        "discount": "25%"
+    },
+    {
+        "id": 371,
+        "name": "Product 371",
+        "price": 10.15,
+        "category": "Automotive",
+        "description": "This is a description for Product 371 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+371",
+        "discount": "15%"
+    },
+    {
+        "id": 372,
+        "name": "Product 372",
+        "price": 298.89,
+        "category": "Toys",
+        "description": "This is a description for Product 372 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+372",
+        "discount": "25%"
+    },
+    {
+        "id": 373,
+        "name": "Product 373",
+        "price": 436.82,
+        "category": "Electronics",
+        "description": "This is a description for Product 373 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+373"
+    },
+    {
+        "id": 374,
+        "name": "Product 374",
+        "price": 191.13,
+        "category": "Books",
+        "description": "This is a description for Product 374 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+374"
+    },
+    {
+        "id": 375,
+        "name": "Product 375",
+        "price": 355.76,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 375 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+375"
+    },
+    {
+        "id": 376,
+        "name": "Product 376",
+        "price": 481.28,
+        "category": "Toys",
+        "description": "This is a description for Product 376 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+376"
+    },
+    {
+        "id": 377,
+        "name": "Product 377",
+        "price": 426.94,
+        "category": "Beauty",
+        "description": "This is a description for Product 377 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+377",
+        "discount": "20%"
+    },
+    {
+        "id": 378,
+        "name": "Product 378",
+        "price": 122.34,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 378 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+378"
+    },
+    {
+        "id": 379,
+        "name": "Product 379",
+        "price": 117.0,
+        "category": "Books",
+        "description": "This is a description for Product 379 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+379",
+        "discount": "20%"
+    },
+    {
+        "id": 380,
+        "name": "Product 380",
+        "price": 402.28,
+        "category": "Clothing",
+        "description": "This is a description for Product 380 in the Clothing category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+380"
+    },
+    {
+        "id": 381,
+        "name": "Product 381",
+        "price": 182.94,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 381 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+381"
+    },
+    {
+        "id": 382,
+        "name": "Product 382",
+        "price": 457.69,
+        "category": "Home Appliances",
+        "description": "This is a description for Product 382 in the Home Appliances category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+382"
+    },
+    {
+        "id": 383,
+        "name": "Product 383",
+        "price": 14.84,
+        "category": "Toys",
+        "description": "This is a description for Product 383 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+383"
+    },
+    {
+        "id": 384,
+        "name": "Product 384",
+        "price": 477.04,
+        "category": "Electronics",
+        "description": "This is a description for Product 384 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+384"
+    },
+    {
+        "id": 385,
+        "name": "Product 385",
+        "price": 256.22,
+        "category": "Beauty",
+        "description": "This is a description for Product 385 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+385",
+        "discount": "10%"
+    },
+    {
+        "id": 386,
+        "name": "Product 386",
+        "price": 429.43,
+        "category": "Toys",
+        "description": "This is a description for Product 386 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+386",
+        "discount": "20%"
+    },
+    {
+        "id": 387,
+        "name": "Product 387",
+        "price": 477.83,
+        "category": "Beauty",
+        "description": "This is a description for Product 387 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+387"
+    },
+    {
+        "id": 388,
+        "name": "Product 388",
+        "price": 412.09,
+        "category": "Sports",
+        "description": "This is a description for Product 388 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+388"
+    },
+    {
+        "id": 389,
+        "name": "Product 389",
+        "price": 283.5,
+        "category": "Books",
+        "description": "This is a description for Product 389 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+389"
+    },
+    {
+        "id": 390,
+        "name": "Product 390",
+        "price": 172.99,
+        "category": "Books",
+        "description": "This is a description for Product 390 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+390"
+    },
+    {
+        "id": 391,
+        "name": "Product 391",
+        "price": 312.36,
+        "category": "Electronics",
+        "description": "This is a description for Product 391 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+391"
+    },
+    {
+        "id": 392,
+        "name": "Product 392",
+        "price": 279.7,
+        "category": "Automotive",
+        "description": "This is a description for Product 392 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+392",
+        "discount": "20%"
+    },
+    {
+        "id": 393,
+        "name": "Product 393",
+        "price": 369.97,
+        "category": "Beauty",
+        "description": "This is a description for Product 393 in the Beauty category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+393"
+    },
+    {
+        "id": 394,
+        "name": "Product 394",
+        "price": 42.13,
+        "category": "Toys",
+        "description": "This is a description for Product 394 in the Toys category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+394"
+    },
+    {
+        "id": 395,
+        "name": "Product 395",
+        "price": 332.77,
+        "category": "Books",
+        "description": "This is a description for Product 395 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+395",
+        "discount": "10%"
+    },
+    {
+        "id": 396,
+        "name": "Product 396",
+        "price": 412.05,
+        "category": "Automotive",
+        "description": "This is a description for Product 396 in the Automotive category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+396",
+        "discount": "20%"
+    },
+    {
+        "id": 397,
+        "name": "Product 397",
+        "price": 96.92,
+        "category": "Electronics",
+        "description": "This is a description for Product 397 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+397",
+        "discount": "5%"
+    },
+    {
+        "id": 398,
+        "name": "Product 398",
+        "price": 355.83,
+        "category": "Sports",
+        "description": "This is a description for Product 398 in the Sports category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+398"
+    },
+    {
+        "id": 399,
+        "name": "Product 399",
+        "price": 467.66,
+        "category": "Books",
+        "description": "This is a description for Product 399 in the Books category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+399",
+        "discount": "25%"
+    },
+    {
+        "id": 400,
+        "name": "Product 400",
+        "price": 402.01,
+        "category": "Electronics",
+        "description": "This is a description for Product 400 in the Electronics category.",
+        "image": "https://dummyimage.com/200x200/000/fff&text=Product+400",
+        "discount": "25%"
+    }
+]
