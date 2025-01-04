@@ -1,6 +1,4 @@
-.viewport {
-    height: 600px; 
-    width: 100%;
-    overflow: auto;
-  }
-  
+body {
+  font-family: 'Montserrat', sans-serif;
+
+}
