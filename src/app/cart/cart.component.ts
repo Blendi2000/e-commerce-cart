@@ -11,8 +11,8 @@ import { Router } from '@angular/router';
   styleUrls: ['./cart.component.css'],
 })
 export class CartComponent {
-  cart = this.cartService.cart; // Reactive signal reference
-  totals = this.cartService.calculateTotal(); // Totals for display
+  cart = this.cartService.cart; 
+  totals = this.cartService.calculateTotal(); 
 
   constructor(private cartService: CartService,private router: Router) {}
 
