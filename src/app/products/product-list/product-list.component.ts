@@ -8,12 +8,12 @@ import { FormsModule } from '@angular/forms';
 @Component({
   selector: 'app-product-list',
   standalone: true,
-  imports: [RouterModule, CommonModule, FormsModule,ProductListComponent],
+  imports: [RouterModule, CommonModule, FormsModule],
   templateUrl: './product-list.component.html',
   styleUrls: ['./product-list.component.css'],
 })
 export class ProductListComponent {
-  products = this.productService.products; // Signal for product list
+  products = this.productService.products; 
   selectedProduct: any = null; // For the modal
   quantity: number = 1; // For the quantity input
 
@@ -39,7 +39,7 @@ export class ProductListComponent {
 
   openModal(product: any): void {
     this.selectedProduct = product;
-    this.quantity = 1; // Reset quantity
+    this.quantity = 1; 
   }
 
   closeModal(): void {
@@ -48,6 +48,6 @@ export class ProductListComponent {
 
   addToCart(product: any): void {
     this.cartService.addToCart({ ...product, quantity: this.quantity });
-    this.closeModal(); // Close modal after adding to cart
+    this.closeModal(); 
   }
 }

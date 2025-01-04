@@ -60,7 +60,7 @@ describe('ProductListComponent', () => {
       {
         id: 1,
         name: 'Product 1',
-        price: 231.579, // Discount applied
+        price: 231.579, 
         category: 'Home Appliances',
         description: 'This is a description for Product 1 in the Home Appliances category.',
         image: 'https://dummyimage.com/200x200/000/fff&text=Product+1',
@@ -70,7 +70,7 @@ describe('ProductListComponent', () => {
       {
         id: 2,
         name: 'Product 2',
-        price: 189.195, // Discount applied
+        price: 189.195, 
         category: 'Automotive',
         description: 'This is a description for Product 2 in the Automotive category.',
         image: 'https://dummyimage.com/200x200/000/fff&text=Product+2',

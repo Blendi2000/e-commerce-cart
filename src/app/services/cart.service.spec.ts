@@ -21,8 +21,8 @@ describe('CartService', () => {
   
     service.addToCart({ ...product, quantity: 3 });
     cart = service.cart();
-    expect(cart.length).toBe(1); // Still one product
-    expect(cart[0].quantity).toBe(4); // Updated quantity
+    expect(cart.length).toBe(1);
+    expect(cart[0].quantity).toBe(4); 
   });
   
 

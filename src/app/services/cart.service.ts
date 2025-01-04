@@ -61,7 +61,7 @@ export class CartService {
   calculateTotal(): { total: number; tax: number; finalTotal: number } {
     const currentCart = this.cartState();
     const total = currentCart.reduce((sum, item) => sum + item.price * item.quantity, 0);
-    const tax = total * 0.15; // Example: 15% tax
+    const tax = total * 0.15;
     const finalTotal = total  + tax;
     return { total, tax, finalTotal };
   }

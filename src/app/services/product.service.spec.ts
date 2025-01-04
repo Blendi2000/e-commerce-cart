@@ -44,7 +44,7 @@ describe('ProductService', () => {
 
   it('should apply discounts correctly', () => {
     const discountedProducts = service.calculateDiscounts(mockProductsJson);
-    expect(discountedProducts[0].price).toBeCloseTo(231.58, 2); // 10% discount
-    expect(discountedProducts[1].price).toBeCloseTo(189.20, 2); // 25% discount
+    expect(discountedProducts[0].price).toBeCloseTo(231.58, 2); 
+    expect(discountedProducts[1].price).toBeCloseTo(189.20, 2); 
   });
 });
